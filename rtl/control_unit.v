@@ -31,7 +31,7 @@ state_transition state_transition_inst(
 	.rd            (ir_out[11:10]) ,
 	.opcode        (ir_out[15:12]) ,
 	.en_fetch      (en_ram_in    ) ,	
-	.en_group_pulse(en_group     ) ,
+	.en_group      (en_group     ) ,
 	.en_pc         (en_pc        ) ,
 	.pc_ctrl       (pc_ctrl      ) ,
 	.reg_en        (reg_en       ) ,
