@@ -1,0 +1,270 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/software/questasim/examples
+valu
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 cVBATAG:Nj_O]D^0L6OmR1
+IomY`_F[IfCR]3`TQTfT1D1
+Z1 dC:/Users/29620/Desktop/tinylibcpu/sim/tb_top_cpu
+w1737780030
+8C:/Users/29620/Desktop/tinylibcpu/rtl/alu.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/alu.v
+L0 11
+Z2 OL;L;10.6c;65
+Z3 !s108 1738486726.000000
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/alu.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+valu_mux
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 m:07bWN_0OEzIaJeghkY<1
+I_O9AODjJkmcTF_LTnZJn23
+R1
+w1737717887
+8C:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v|
+!i113 0
+R4
+R5
+vcontrol_unit
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 e^X:JnDC5XR5oMM0oif>k3
+IADXfF=c7?CSCI<BOS=G8z0
+R1
+w1738486158
+8C:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v|
+!i113 0
+R4
+R5
+vcpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 9NTn1n^m<ee5Xhe1QFzBU1
+IE1OV6QGeDfe9Va>l[XFNk0
+R1
+w1738168222
+8C:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v|
+!i113 0
+R4
+R5
+vdata_path
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 :SIiQ?fiCChRM;<ZJVe;i3
+IFNRnm:eP;9OHZlfz`;=7H2
+R1
+w1738486137
+8C:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v|
+!i113 0
+R4
+R5
+vir
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 k=gT`1l^:@FlY1TK:M;>z3
+IcQo=z:_g[RMN[TSJPOhzc0
+R1
+w1738166609
+8C:/Users/29620/Desktop/tinylibcpu/rtl/ir.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/ir.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/ir.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/ir.v|
+!i113 0
+R4
+R5
+vpc
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 eMIUQk5;4PcV1?f^]m8XQ0
+I68mhJIJXRQ24j685;kgAj1
+R1
+w1737778446
+8C:/Users/29620/Desktop/tinylibcpu/rtl/pc.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/pc.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/pc.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/pc.v|
+!i113 0
+R4
+R5
+vreg_group
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Oc]6L8?NVMeQ=K2n;XhY22
+IJgZXVVV7n1Hz6C]hi6][Y0
+R1
+w1737715241
+8C:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v|
+!i113 0
+R4
+R5
+vregister
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 5^j9CaNR`8OMXk5KNfZ2P3
+IGP3ZXFZmo[a>;<5UKfiKD2
+R1
+w1737777107
+8C:/Users/29620/Desktop/tinylibcpu/rtl/register.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/register.v
+L0 3
+R2
+Z6 !s108 1738486727.000000
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/register.v|
+!i113 0
+R4
+R5
+vrom
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 N5YF0<emBlaJAbZRC>dM^0
+Icl;KNe@knc@12]Hmj^DQf1
+R1
+w1738484878
+8C:/Users/29620/Desktop/tinylibcpu/rtl/rom.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/rom.v
+L0 2
+R2
+R6
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/rom.v|
+!i113 0
+R4
+R5
+vstate_transition
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 `f<TEMaZJ;hL472QgoB?R2
+Ic7mXcJ>Sgl[TcUlWdH6DQ0
+R1
+w1738486509
+8C:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v
+L0 3
+R2
+R6
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v|
+!i113 0
+R4
+R5
+vtb_top_cpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 H?3VgX`@_9FRH^0eC;5fB2
+I?e]ZBiB0m8G=zHNjbc>5V3
+R1
+w1738486421
+8C:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v
+FC:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v
+L0 3
+R2
+R3
+!s107 C:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v|
+!i113 0
+R4
+R5
+vtop_cpu
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 FK4XJZB7N8k]kSYzP9Bc42
+I1ElU6i5X;0eWAF@kVi29A0
+R1
+w1738486005
+8C:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v
+FC:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v
+L0 3
+R2
+R6
+!s107 C:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v|
+!i113 0
+R4
+R5

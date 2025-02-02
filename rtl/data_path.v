@@ -4,14 +4,14 @@ module data_path (
 	input         clk       ,
 	input         rst       ,
 	input         en_pc     ,
-	input [1:0]   pc_ctrl   ,
-	input [7:0]   offset    ,
+	input  [1:0]  pc_ctrl   ,
+	input  [7:0]  offset    ,
 	input  	      en_in     ,
-	input [3:0]   reg_en    ,
+	input  [3:0]  reg_en    ,
 	input  [1:0]  rd        ,
 	input  [1:0]  rs        ,
 	input         alu_in_sel,
-	input [2:0]   alu_func  ,
+	input  [2:0]  alu_func  ,
 	output        en_out    ,
 	output [15:0] pc_out    
 );

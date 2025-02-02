@@ -18,16 +18,16 @@ module state_transition(
 reg [3:0] current_state ;
 reg [3:0] next_state    ;
 
-parameter Initial       = 4'b0000;
-parameter Fetch         = 4'b0001; 			
-parameter Decode        = 4'b0010; 		
-parameter Execute_Moveb = 4'b0011;  
-parameter Execute_Add   = 4'b0100;    
-parameter Execute_Sub   = 4'b0101;    
-parameter Execute_And   = 4'b0110;    
-parameter Execute_Or    = 4'b0111;     
-parameter Execute_Jump  = 4'b1000;   
-parameter Write_back    = 4'b1001;     
+localparam Initial       = 4'b0000;
+localparam Fetch         = 4'b0001; 			
+localparam Decode        = 4'b0010; 		
+localparam Execute_Moveb = 4'b0011;  
+localparam Execute_Add   = 4'b0100;    
+localparam Execute_Sub   = 4'b0101;    
+localparam Execute_And   = 4'b0110;    
+localparam Execute_Or    = 4'b0111;     
+localparam Execute_Jump  = 4'b1000;   
+localparam Write_back    = 4'b1001;     
 
 always @ (posedge clk or negedge rst) begin
 	if(!rst) begin

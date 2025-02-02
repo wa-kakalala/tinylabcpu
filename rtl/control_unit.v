@@ -11,7 +11,7 @@ module control_unit (
 	output        en_pc     ,
 	output [3:0]  reg_en    ,
 	output        alu_in_sel,
-	output [3:0]  alu_func  ,
+	output [2:0]  alu_func  ,
 	output [1:0]  pc_ctrl   ,
 	output [15:0] ir_out
 );

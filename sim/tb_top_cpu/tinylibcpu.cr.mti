@@ -1,0 +1,92 @@
+C:/Users/29620/Desktop/tinylibcpu/rtl/alu.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/alu.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/reg_group.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module reg_group
+
+Top level modules:
+	reg_group
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/state_transition.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module state_transition
+
+Top level modules:
+	state_transition
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/tb/tb_top_cpu.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module tb_top_cpu
+
+Top level modules:
+	tb_top_cpu
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/register.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/register.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/data_path.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module data_path
+
+Top level modules:
+	data_path
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/rom.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/rom.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/cpu.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/top_cpu.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module top_cpu
+
+Top level modules:
+	top_cpu
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/alu_mux.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module alu_mux
+
+Top level modules:
+	alu_mux
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/ir.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/ir.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/pc.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/pc.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v {1 {vlog -work work -vopt -stats=none C:/Users/29620/Desktop/tinylibcpu/rtl/control_unit.v
+QuestaSim-64 vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}}
